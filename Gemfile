@@ -16,7 +16,7 @@ end
 
 # Use slim templates
 gem 'slim-rails'
-
+gem 'slim'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 
